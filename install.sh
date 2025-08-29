@@ -2,4 +2,5 @@
 
 # Copy dotfiles to home directory
 cp ~/dotfiles/.bashrc ~/.bashrc
-cp ~/dotfiles/.config/nvim/ ~/.config/nvim/
+cp ~/dotfiles/.bash_aliases ~/.bash_aliases
+cp ~/dotfiles/.config/nvim/ ~/.config/nvim/ -r
